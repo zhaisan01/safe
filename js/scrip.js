@@ -8,6 +8,7 @@ var teacher = {
     name: "kun"
 };
 var time = {
-    life: "hello"
+    life: "hello",
+    duration: 111
 };
 console.log('time.hello', time.life);
