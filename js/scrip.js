@@ -9,6 +9,10 @@ var teacher = {
 };
 var time = {
     life: "hello",
+<<<<<<< HEAD
     duration: 12
+=======
+    duration: 111
+>>>>>>> dev
 };
 console.log('time.hello', time.life);
